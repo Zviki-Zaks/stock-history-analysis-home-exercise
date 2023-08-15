@@ -1,7 +1,7 @@
 {
-  "name": "flycomm-exercise",
-  "version": "0.1.0",
-  "description": "An algorithm for analyzing stock market data",
+  "name": "stock-history-analysis-home-exercise",
+  "version": "1.0.0",
+  "description": "Algorithm for stock history analysis",
   "type": "module",
   "scripts": {
     "start": "node --watch ./index.js",
